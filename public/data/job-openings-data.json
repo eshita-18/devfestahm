@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "id": 1,
+      "id": 11,
       "companyName": "SolGuruz LLP",
       "location": "Ahmedabad, India",
       "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
@@ -229,7 +229,35 @@
           "title": "Graphics Designer Intern",
           "count": 2,
           "experience": "-"
-        }
+        },
+        {
+  "id": 5,
+  "companyName": "GDG Ahmedabad",
+  "location": "Ahmedabad",
+  "bio": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
+  "companyLogoUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg",
+  "companyWebsite": "https://devfest.gdgahmedabad.com/",
+  "companyCareerPage": "https://devfest.gdgahmedabad.com/",
+  "linkedin": "https://www.linkedin.com/company/gdg-ahmedabad/",
+  "hiringImageUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/we-are-hiring-postcard-design-template-9d69ace4777878ef63cd65ffcdda1af3_screen.jpg",
+  "openings": [
+    {
+      "title": "Angular Developers",
+      "count": 2,
+      "experience": "2-5 years"
+    },
+    {
+      "title": "React Developers",
+      "count": 1,
+      "experience": "2-5 years"
+    },
+    {
+      "title": "Flutter Developers",
+      "count": 2,
+      "experience": "1+ year"
+    }
+  ]
+}
       ]
     }
   ]
